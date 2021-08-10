@@ -5,7 +5,7 @@
 
 
 <div align=center><img src = "https://github.com/haha-rl/Rebuttal_dicarl/blob/main/Heatmap-sac.jpg"  width=600 alt="figure"></div>
-<div align=center>Figure 2. The average failure rate of Vanilla-SAC, RARL-SAC and DICARL-SAC algorithms. Each experiment is repeated 7 times, the x- and y-axes represent the mass changes of different parts of the robot, respectively.</div>
+<div align=center>Figure 2. The average failure rate of Vanilla-SAC, RARL-SAC and DICARL-SAC algorithms. Each experiment is repeated 5 times, the x- and y-axes represent the mass changes of different parts of the robot, respectively.</div>
 
 <div align=center><img src = "https://github.com/haha-rl/Rebuttal_dicarl/blob/main/Training-curve.jpg"></div>
 <div align=center>Figure 3. The training curves of Vanilla, RARL, NR-MDP, Oracle, DICARL and RLAC algorithms.</div>
